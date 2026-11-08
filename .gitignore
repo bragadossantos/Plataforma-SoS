@@ -1,0 +1,29 @@
+# Build
+target/
+*.war
+*.class
+
+# Configuração local com credenciais
+src/main/webapp/META-INF/context.xml
+.env
+*.local.properties
+
+# Dados de execução
+uploads/
+sos-uploads/
+*.log
+
+# IDE
+.idea/
+*.iml
+.vscode/
+nbproject/private/
+nb-configuration.xml
+.settings/
+.classpath
+.project
+
+# Sistema
+Thumbs.db
+.DS_Store
+
