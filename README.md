@@ -73,7 +73,7 @@ A documentação detalhada encontra-se na pasta [`docs/`](docs/):
 
 ## 👨‍💻 Autor
 
-* **Adriano Tchiloya**
+* **Braga Dos Santos**
 * Cadeira: Programação IV (Ano Lectivo 2026/27)
 * Repositório: [plataforma-sos](https://github.com/bragadossantos/plataforma-sos)
 
