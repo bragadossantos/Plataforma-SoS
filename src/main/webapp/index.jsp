@@ -72,6 +72,12 @@
             <li><strong>Modelo de Domínio:</strong> <code>UserDTO</code> implementado</li>
         </ul>
 
+        <p style="margin-top: 24px;">
+            👉 <a href="${pageContext.request.contextPath}/users" style="color: var(--cor-marca); font-weight: 600; text-decoration: underline;">
+                Ver ecrã de demonstração prática do UserDTO (MVC)
+            </a>
+        </p>
+
         <footer>
             Plataforma de Alojamento e Monitorização de Sistemas de Sistemas (SoS)
         </footer>
